@@ -14,11 +14,14 @@ Normal
        * learn how to implement blocks for a sprite according to the other 2
        * create a choreography of 3 characters
        * choose the right blocks and timing so the animation looks credible
+       * reduce the size of the sprites when on the last background
   - Students will get familiar with:
        * "switch to costume" blocks
        * broadcast block
        * "when I receive" block
        * wait block
+       * move block
 
 ### Outcome
-https://scratch.mit.edu/projects/348937951
+https://scratch.mit.edu/projects/348937951 <br>
+This anmation is a choreography between 3 sprites. 
