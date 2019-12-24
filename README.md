@@ -20,7 +20,6 @@ Normal
        * broadcast block
        * "when I receive" block
        * wait block
-       * move block
 
 ### Outcome
 https://scratch.mit.edu/projects/348937951 <br>
