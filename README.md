@@ -1,18 +1,21 @@
-# Lesson 7: Party Time (part 1)
+# Scratch Programming
 
-## Author
-Leslie8826
+## Lesson 7: Party Time (part 1)
 
-## Audience 
+### Author
+Leslie8826 (Github platform) <br>
+Leslie_Instructor (Scratch platform)
+
+### Audience 
 Middle School Students
 
-## Term
+### Term
 Fall 2019
 
-## Difficulty
+### Difficulty
 Normal
 
-## Objectives 
+### Objectives 
   - Students will be able to: 
        * understand how to implement blocks according to a scenario between 3 sprites
        * work with 3 sprites at the same time
@@ -27,6 +30,6 @@ Normal
        * "when I receive" block
        * wait block
 
-## Outcome
+### Outcome
 https://scratch.mit.edu/projects/348937951 <br>
 This anmation is a choreography between 3 sprites. 
